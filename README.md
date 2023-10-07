@@ -1,4 +1,4 @@
-<img width="674" alt="Screenshot 2023-10-07 at 4 15 00 PM" src="https://github.com/RDanover/2048-For-Arduino/assets/60625627/14f75dcb-6eaa-4252-8dbf-1dfcc6417a80">##### 2048-For-Arduino
+##### 2048 For Arduino
 
 ### Introduction:
 This project is a clone of 2048 which has been modified to work on the 2 X 16 LCD. The game works by spawning in tiles on the 8 X 2 gameboard and having the user combine tiles by sliding them next to each other using the joystick. The user will win if they create a tile with the value of 2048. The user will lose if they can no longer combine any tiles on the screen. The user will also see their score during gameplay to the right of the gameboard which will show the total score of tiles they have combined.
@@ -54,13 +54,13 @@ LiquidCrystal.h: I used this inorder to write and print to the lcd screen.
 
 <img width="674" alt="Screenshot 2023-10-07 at 4 15 00 PM" src="https://github.com/RDanover/2048-For-Arduino/assets/60625627/42b5f25b-4e22-4ac4-bad4-6c1b72822d41">
 
-### Task Diagrams
+### Task Diagram
 <img width="635" alt="Screenshot 2023-10-07 at 4 15 29 PM" src="https://github.com/RDanover/2048-For-Arduino/assets/60625627/34a1e8aa-e9c6-4af4-a4a9-349b5c3a2293">
 
+### SynchSM Diagrams
 <img width="717" alt="Screenshot 2023-10-07 at 4 15 52 PM" src="https://github.com/RDanover/2048-For-Arduino/assets/60625627/f26734a7-64e9-4e21-966e-afb2564b034e">
 
 <img width="480" alt="Screenshot 2023-10-07 at 4 16 08 PM" src="https://github.com/RDanover/2048-For-Arduino/assets/60625627/a41e6c32-a187-4a4c-a279-06eef24e046d">
 
 
-SynchSM Diagrams
-  
+
